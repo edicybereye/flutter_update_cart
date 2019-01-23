@@ -1,6 +1,6 @@
-# logintest
+# Update Cart
 
-A new Flutter project.
+Bagaimana cara menambahkan item jumlah di keranjang tanpa redux
 
 ## Getting Started
 
